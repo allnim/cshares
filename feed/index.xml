@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Copyright Shares</title>
-	<atom:link href="https://copyrightshares.com/feed" rel="self" type="application/rss+xml" />
-	<link>https://copyrightshares.com/</link>
+	<atom:link href="https://festive-pare-b8c7f7.netlify.app/feed" rel="self" type="application/rss+xml" />
+	<link>https://festive-pare-b8c7f7.netlify.app/</link>
 	<description>A service from Copyright Flow Llc</description>
 	<lastBuildDate>Fri, 12 Nov 2021 04:05:02 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,20 +21,20 @@
 	<generator>https://wordpress.org/?v=5.8.2</generator>
 	<item>
 		<title>Hello world!</title>
-		<link>https://copyrightshares.com/archives/1</link>
-					<comments>https://copyrightshares.com/archives/1#comments</comments>
+		<link>https://festive-pare-b8c7f7.netlify.app/archives/1</link>
+					<comments>https://festive-pare-b8c7f7.netlify.app/archives/1#comments</comments>
 		
 		<dc:creator><![CDATA[csadmin]]></dc:creator>
 		<pubDate>Fri, 12 Nov 2021 04:05:02 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">https://copyrightshares.com/?p=1</guid>
+		<guid isPermaLink="false">https://festive-pare-b8c7f7.netlify.app/?p=1</guid>
 
 					<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
 										<content:encoded><![CDATA[
 <p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://copyrightshares.com/archives/1/feed</wfw:commentRss>
+					<wfw:commentRss>https://festive-pare-b8c7f7.netlify.app/archives/1/feed</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
