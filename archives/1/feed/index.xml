@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Hello world!	</title>
-	<atom:link href="https://copyrightsdefi.com/archives/1/feed" rel="self" type="application/rss+xml" />
-	<link>https://copyrightsdefi.com/archives/1</link>
+	<atom:link href="/archives/1/feed" rel="self" type="application/rss+xml" />
+	<link>/archives/1</link>
 	<description>A service from Copyright Flow Llc</description>
 	<lastBuildDate>Fri, 12 Nov 2021 04:05:02 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -20,11 +20,11 @@
 	<item>
 		<title>
 		By: A WordPress Commenter		</title>
-		<link>https://copyrightsdefi.com/archives/1#comment-1</link>
+		<link>/archives/1#comment-1</link>
 
 		<dc:creator><![CDATA[A WordPress Commenter]]></dc:creator>
 		<pubDate>Fri, 12 Nov 2021 04:05:02 +0000</pubDate>
-		<guid isPermaLink="false">https://copyrightsdefi.com/?p=1#comment-1</guid>
+		<guid isPermaLink="false">/?p=1#comment-1</guid>
 
 					<description><![CDATA[Hi, this is a comment.
 To get started with moderating, editing, and deleting comments, please visit the Comments screen in the dashboard.
